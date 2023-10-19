@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 My name is Andrew.
+
+Business Analyst turned Data Scientist, I am interested in machine learning operations and unstuctured data processing, such as texts and images. Join me as I explore the nooks and crannies of data science from data engineering to model deployment on cloud services like AWS.
+
+- 🔭 I’m currently working on two projects: one classifier with textual data and one regression with geographical coordinates.
+- 🌱 I’m currently learning machine learning operations (ex: self training pipelines) 
+- 💬 Ask me about data preprocessing, web-scraping, data visualization, machine learning, cloud deployment
+- 📫 How to reach me: http://linkedin.com/in/andrewyewcy
+- ⚡ Fun fact: Hawaiian pizza with pineapple chunks is from Ontario, Canada [wikipedia](https://en.wikipedia.org/wiki/Hawaiian_pizza) 
 
 <!--
 **andrewyewcy/andrewyewcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
