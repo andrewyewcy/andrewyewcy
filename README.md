@@ -1,6 +1,7 @@
 ### Hi there 👋 My name is Andrew.
 
-Business Analyst turned Data Scientist, I am interested in machine learning operations and unstuctured data processing, such as texts and images. Join me as I explore the nooks and crannies of data science from data engineering to model deployment on cloud services like AWS.
+
+With experience in developing data processing and machine learning solutions for numerical and textual data in the manufacturing and technology fields, let me help you identify and realize technical data solutions for your business.
 
 - 🔭 I’m currently working on two projects: one classifier with textual data and one regression with geographical coordinates.
 - 🌱 I’m currently learning machine learning operations (ex: self training pipelines) 
