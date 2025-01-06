@@ -1,11 +1,11 @@
 ### Hi there 👋 My name is Andrew.
 
 
-With experience in developing data processing and machine learning solutions for numerical and textual data in the manufacturing and technology fields, let me help you identify and realize technical data solutions for your business.
+I design and build ETL data pipelines on the cloud to clean data for business intelligence / machine learning.
 
-- 🔭 I’m currently working on two projects: one classifier with textual data and one regression with geographical coordinates.
-- 🌱 I’m currently learning machine learning operations (ex: self training pipelines) 
-- 💬 Ask me about data preprocessing, web-scraping, data visualization, machine learning, cloud deployment
+- 🔭 I’m currently working on migrating a company's data to the cloud and revamping all data pipelines for their business intelligence.
+- 🌱 I’m currently learning about long term project planning. 
+- 💬 Ask me about ETL, data cleaning, cloud data pipelines,data visualization, machine learning
 - 📫 How to reach me: http://linkedin.com/in/andrewyewcy
 - ⚡ Fun fact: Hawaiian pizza with pineapple chunks is from Ontario, Canada [wikipedia](https://en.wikipedia.org/wiki/Hawaiian_pizza) 
 
